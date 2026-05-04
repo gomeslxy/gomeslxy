@@ -1,19 +1,25 @@
 <div align="center">
 
-<!-- HEADER CAPSULE COM EFEITO VFX -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=250&section=header&text=LUCAS%20GOMES&fontSize=70&animation=fadeIn&fontColor=000000&fontAlignY=35" width="100%" />
+<!-- HEADER VFX COM GRADIENTE E CONTRASTE ALTO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00FF41,30,008f11,70,005f0b,100,000000&height=280&section=header&text=LUCAS%20GOMES&fontSize=80&animation=twinkle&fontColor=FFFFFF&fontAlignY=35" width="100%" />
 
 <br/>
 
-<!-- EFEITO DE DIGITAÇÃO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=FULL-STACK+ARCHITECT;FUTURE+SAAS+FOUNDER;SHIPPING+CODE+IN+THE+SHADOWS;MASTERING+THE+STACK.)](https://git.io/typing-svg)
+<!-- TYPING SVG COM CONTRASTE MELHORADO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=FULL-STACK+ARCHITECT;FUTURE+SAAS+FOUNDER;BUILDING+REAL+PRODUCTS;MASTERING+THE+SHADOWS.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL LINKS -->
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lucas-gomes-amaral-8b058b391/)
-[![Gmail](https://img.shields.io/badge/-GMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:la181009@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/gomeslxy/portfolio-lucas)
+<!-- BADGES COM DESIGN PREMIUM (GLASSMORPHISM FEEL) -->
+<a href="https://www.linkedin.com/in/lucas-gomes-amaral-8b058b391/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=1a1a1a" />
+</a>
+<a href="mailto:la181009@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=1a1a1a" />
+</a>
+<a href="https://github.com/gomeslxy/portfolio-lucas">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=1a1a1a" />
+</a>
 
 </div>
 
@@ -35,17 +41,17 @@ Sou **Lucas Gomes**, um desenvolvedor de **16 anos** focado em projetar sistemas
 
 <div align="center">
 
-| Categoria | Tecnologias |
+| Categoria | Stack Overdrive |
 | :--- | :--- |
-| **Frontend/Logic** | ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00FF41) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00FF41) |
-| **Backend/Infra** | ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF41) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41) ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis&logoColor=00FF41) |
-| **Tools/Design** | ![Stripe](https://img.shields.io/badge/-Stripe-000000?style=flat-square&logo=stripe&logoColor=00FF41) ![Framer Motion](https://img.shields.io/badge/-Framer-000000?style=flat-square&logo=framer&logoColor=00FF41) ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=00FF41) |
+| **Logic Engine** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41) |
+| **Backend/Infra** | ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF41) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41) ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF41) |
+| **Power-ups** | ![Stripe](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=00FF41) ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=00FF41) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41) |
 
 </div>
 
 ---
 
-## 🛠️ Projetos
+## 🛠️ Projetos Ativos
 
 <div align="center">
 
@@ -75,27 +81,35 @@ Sou **Lucas Gomes**, um desenvolvedor de **16 anos** focado em projetar sistemas
 
 ---
 
-## 📊 Estatísticas
+## 📊 Analytics & Performance
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomeslxy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeslxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomeslxy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomeslxy&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gomeslxy&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gomeslxy&theme=transparent&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 
 </div>
 
 ---
 
-## 📩 Contato
+## 📩 Establish Connection
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn–Lucas_Gomes-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lucas-gomes-amaral-8b058b391/)
-[![Email](https://img.shields.io/badge/Email–la181009@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:la181009@gmail.com)
+```text
+> STATUS: OPEN FOR COLLABORATION
+```
+
+<a href="https://www.linkedin.com/in/lucas-gomes-amaral-8b058b391/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=1a1a1a" />
+</a>
+<a href="mailto:la181009@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=1a1a1a" />
+</a>
 
 <br/>
 
@@ -106,5 +120,5 @@ Sou **Lucas Gomes**, um desenvolvedor de **16 anos** focado em projetar sistemas
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=20&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=10&section=footer" width="100%" />
 </div>
